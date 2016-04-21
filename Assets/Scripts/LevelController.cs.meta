@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 402ab7c6bab0d874b8705ef4daff910c
+timeCreated: 1457124975
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BlockPrefab: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - livesText: {instanceID: 0}
+  - levels: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
